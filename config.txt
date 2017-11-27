@@ -1,0 +1,1 @@
+c:'.c','.h';py:'.py','.pyc';pl:'.pl','.pm';txt:'.txt','.csv'
